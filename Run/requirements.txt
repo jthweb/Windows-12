@@ -1,0 +1,9 @@
+cx_Freeze==7.2.10
+cx_Freeze==7.2.10
+PyQt6_Fluent_Widgets==1.6.0
+PyQt_Fluent_Widgets==1.7.4
+PySide6==6.8.2.1
+PySide6==6.8.2.1
+PySide6_Addons==6.8.2.1
+PySide6_Essentials==6.8.2.1
+PySide6_Fluent_Widgets==1.7.4

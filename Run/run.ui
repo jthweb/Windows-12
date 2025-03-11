@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>412</width>
+    <height>178</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QFrame" name="frame_2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>381</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius:10px;
+background-color:rgb(37, 42, 51);</string>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::Shape::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Shadow::Raised</enum>
+   </property>
+   <widget class="QPushButton" name="pushButton_3">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>10</y>
+      <width>51</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="toolTipDuration">
+     <number>-17</number>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>Run 1.ico</normaloff>Run 1.ico</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>45</width>
+      <height>45</height>
+     </size>
+    </property>
+    <property name="flat">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="LineEdit" name="LineEdit">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>10</y>
+      <width>251</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">LineEdit, TextEdit, PlainTextEdit {
+    color: black;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 1px solid rgba(0, 0, 0, 13);
+    border-bottom: 1px solid rgba(0, 0, 0, 100);
+    border-radius: 5px;
+    /* font: 14px &quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;; */
+    padding: 0px 10px;
+    selection-background-color: #00a7b3;
+}
+
+TextEdit,
+PlainTextEdit {
+    padding: 2px 3px 2px 8px;
+}
+
+LineEdit:hover, TextEdit:hover, PlainTextEdit:hover {
+    background-color: rgba(249, 249, 249, 0.5);
+    border: 1px solid rgba(0, 0, 0, 13);
+    border-bottom: 1px solid rgba(0, 0, 0, 100);
+}
+
+LineEdit:focus {
+    border-bottom: 1px solid rgba(0, 0, 0, 13);
+    background-color: white;
+}
+
+TextEdit:focus,
+PlainTextEdit:focus {
+    border-bottom: 1px solid #009faa;
+    background-color: white;
+}
+
+LineEdit:disabled, TextEdit:disabled,
+PlainTextEdit:disabled {
+    color: rgba(0, 0, 0, 150);
+    background-color: rgba(249, 249, 249, 0.3);
+    border: 1px solid rgba(0, 0, 0, 13);
+    border-bottom: 1px solid rgba(0, 0, 0, 13);
+}
+
+#lineEditButton {
+    background-color: transparent;
+    border-radius: 4px;
+    margin: 0;
+}
+
+#lineEditButton:hover {
+    background-color: rgba(0, 0, 0, 9);
+}
+
+#lineEditButton:pressed {
+    background-color: rgba(0, 0, 0, 6);
+}
+</string>
+    </property>
+   </widget>
+   <widget class="QFrame" name="frame">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>60</y>
+      <width>351</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border:1px;
+border-color:rgb(68, 78, 94);
+border-radius:10px;
+background-color:rgb(68, 78, 94);</string>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::Shape::StyledPanel</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Shadow::Raised</enum>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>LineEdit</class>
+   <extends>QLineEdit</extends>
+   <header>qfluentwidgets</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
