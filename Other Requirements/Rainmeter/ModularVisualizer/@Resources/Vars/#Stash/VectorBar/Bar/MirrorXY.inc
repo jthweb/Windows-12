@@ -1,0 +1,17 @@
+[Variables]
+Group1XOffset=0
+Group1YOffset=0
+Group2XOffset=-1000
+Group2YOffset=28
+Group3XOffset=0
+Group3YOffset=28
+Group4XOffset=-1000
+Group4YOffset=56
+Group1XFlip=0
+Group2XFlip=0
+Group3XFlip=0
+Group4XFlip=0
+Group1YFlip=0
+Group2YFlip=0
+Group3YFlip=0
+Group4YFlip=0

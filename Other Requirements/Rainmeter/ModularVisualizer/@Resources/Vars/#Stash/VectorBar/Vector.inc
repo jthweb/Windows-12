@@ -1,0 +1,12 @@
+[Variables]
+LayerCount=4
+VectorBands=9
+VectorWidth=#SCREENAREAWIDTH#
+MinimumHeight=30
+Layer1Height=160
+Layer2Height=140
+Layer3Height=110
+Layer4Height=90
+BarType=Solid
+Angle=0
+@includeVectorColors=Vector\[#BarType].inc

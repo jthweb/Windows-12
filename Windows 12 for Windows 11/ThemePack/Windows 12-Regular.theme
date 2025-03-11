@@ -1,0 +1,59 @@
+; Windows 12 Theme by Deskime
+
+[Theme]
+; Windows 7 - IDS_THEME_DISPLAYNAME_Windows 12 Regular
+DisplayName=Windows 12 Regular
+SetLogonBackground=0
+
+[Control Panel\Cursors]
+AppStarting=%SystemRoot%\Resources\Themes\Windows 12\Cursors\appstarting.ani
+Arrow=%SystemRoot%\Resources\Themes\Windows 12\Cursors\arrow.cur
+Crosshair=%SystemRoot%\Resources\Themes\Windows 12\Cursors\crosshair.cur
+Hand=%SystemRoot%\Resources\Themes\Windows 12\Cursors\hand.cur
+Help=%SystemRoot%\Resources\Themes\Windows 12\Cursors\help.cur
+IBeam=%SystemRoot%\Resources\Themes\Windows 12\Cursors\ibeam.cur
+No=%SystemRoot%\Resources\Themes\Windows 12\Cursors\no.cur
+NWPen=%SystemRoot%\Resources\Themes\Windows 12\Cursors\nwpen.cur
+Person=%SystemRoot%\Resources\Themes\Windows 12\Cursors\person.cur
+Pin=%SystemRoot%\Resources\Themes\Windows 12\Cursors\pin.cur
+SizeAll=%SystemRoot%\Resources\Themes\Windows 12\Cursors\sizeall.cur
+SizeNESW=%SystemRoot%\Resources\Themes\Windows 12\Cursors\sizenesw.cur
+SizeNS=%SystemRoot%\Resources\Themes\Windows 12\Cursors\sizens.cur
+SizeNWSE=%SystemRoot%\Resources\Themes\Windows 12\Cursors\sizenwse.cur
+SizeWE=%SystemRoot%\Resources\Themes\Windows 12\Cursors\sizewe.cur
+UpArrow=%SystemRoot%\Resources\Themes\Windows 12\Cursors\uparrow.cur
+Wait=%SystemRoot%\Resources\Themes\Windows 12\Cursors\wait.ani
+DefaultValue=Windows Default
+DefaultValue.MUI=@main.cpl,-1020
+
+[Control Panel\Desktop]
+Wallpaper=%SystemRoot%\Resources\Themes\Windows 12\Wallpapers\
+TileWallpaper=0
+WallpaperStyle=10
+Pattern=
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\Windows 12\Windows 12-Regular.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0XFF00B38D
+SystemMode=Dark
+AppMode=Dark
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=@%SystemRoot%\System32\mmres.dll,-800
+
+
+[Slideshow]
+
+Interval=900000
+Shuffle=1
+ImagesRootPath=%SystemRoot%\Resources\Themes\Windows 12\Wallpapers\
