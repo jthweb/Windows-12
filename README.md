@@ -1,5 +1,3 @@
-# Windows 12 Concept 
-
 <div style="text-align: center;">
 
 ![Screenshot](./banner.png)
@@ -15,7 +13,7 @@ A free, open-source concept of Windows 12, made with passion.
 
 ----
 
-Hey everyone! I'm Jonathan, a high school student tinkering with tech. I am the developer of Windows 12 Concept.
+Hey everyone! I'm Jonathan, a high school student tinkering with tech. I am the developer of the Windows 12 Concept.
 
 It's free, open-source, and made with ❤️.
 
@@ -59,20 +57,42 @@ It is a concept, not a finished product.
 ### 7️⃣ Winver for Windows 12:
 - Latest `winver.exe` with Windows 12 as OS!
 
+### 8️⃣ Dock Taskbar
+- Get a hiddden taskbar that only opens on hover!
+- Faster App switching
 
 ## 📦 **Installation**
 
 1.  Star the repo and grab the latest release from [Releases](https://github.com/jonathan-oe/Windows-12/releases).
 2.  Run the installer.
-3.  Launch "Activate Windows 12 App" from the Start Menu.
-4.  Follow the steps. (This process will take some time. Please ensure that you have time while installing Windows 12.)
-5.  Enjoy your Windows 12 experience! 🚀
+3. Follow all the steps shown in the below tutorial video on how to install Windows 12. (This process will take some time. Please ensure that you have time while installing Windows 12.)
+<br><video src="tutorial.mp4"></video>
+<br>
+4.  Enjoy your Windows 12 experience! 🚀
 
-- [x] The installer works completely fine if you are offline, except for the installation of the "Extras" - YASB (quick bar) and Rainmeter (Desktop Widgets, Start Menu)
+## 💻 Codes required during installation
+```bash
+winget install --id=Rainmeter.Rainmeter -e
+winget install --id AmN.yasb
+```
 
+## <strike>📦</strike> **Uninstallation**
+
+1.  Please remember that **UNINSTALLING Windows 12 will NOT remove** all the changes made by the app. To restore to the old version, check the below video provided you made some backups during the installation.
+<br><video src="uninstall.mp4"></video>
+<br>
+
+
+## 💻 Codes required during uninstallation
+```bash
+winget uninstall --id=Rainmeter.Rainmeter -e
+winget uninstall --id AmN.yasb
+```
 
 >   [!WARNING]
-> 🔑 Remember to follow all the steps provided for each step with extreme care to ensure the app functions correctly. <br><br>Make sure that you don't reboot your computer any time during the installation, even if the apps ask you to.
+> 🔑 Remember to follow all the steps provided for each step with extreme care to ensure the app is installed or uninstalled correctly. <br><br>Make sure that you don't reboot your computer any time during the installation, even if the apps ask you to.
+
+---
 
 ## 🛠️ **Troubleshooting**
 
