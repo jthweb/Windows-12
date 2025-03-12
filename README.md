@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-![Screenshot](./banner.png)
+![Logo](https://raw.githubusercontent.com/jthweb/Windows-12/refs/heads/main/logo.png)
 
 Imagine starting your day with a [fresh cup of coffee](https://ko-fi.com/jonathan-oe) and a brand new Windows experience... 🤔 That's what this is!
 <br><br>
