@@ -4,7 +4,7 @@
 
 ![Screenshot](./banner.png)
 
-Imagine starting your day with a fresh cup of coffee and a brand new Windows experience... 🤔 That's what this is!
+Imagine starting your day with a [fresh cup of coffee](https://ko-fi.com/jonathan-oe) and a brand new Windows experience... 🤔 That's what this is!
 <br><br>
 A free, open-source concept of Windows 12, made with passion.
 <br><br>
@@ -19,7 +19,7 @@ Hey everyone! I'm Jonathan, a high school student tinkering with tech. I am the 
 
 It's free, open-source, and made with ❤️.
 
-If you enjoy what I'm brewing up and want to support my work, you can buy me a coffee at [Ko-fi](https://ko-fi.com/deskime). Your feedback and contributions are what keep this project going.
+If you enjoy what I'm brewing up and want to support my work, you can buy me a coffee at [Ko-fi](https://ko-fi.com/jonathan-oe). Your feedback and contributions are what keep this project going.
 
 ---
 
