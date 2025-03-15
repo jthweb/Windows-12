@@ -2,7 +2,7 @@
 
 ![Logo](https://raw.githubusercontent.com/jthweb/Windows-12/refs/heads/main/logo.png)
 
-Imagine starting your day with a [fresh cup of coffee](https://ko-fi.com/jonathan-oe) and a brand new Windows experience... 🤔 That's what this is!
+Imagine starting your day with a [fresh cup of coffee](https://ko-fi.com/jthweb) and a brand new Windows experience... 🤔 That's what this is!
 <br><br>
 A free, open-source concept of Windows 12, made with passion.
 <br><br>
@@ -17,7 +17,7 @@ Hey everyone! I'm Jonathan, a high school student tinkering with tech. I am the 
 
 It's free, open-source, and made with ❤️.
 
-If you enjoy what I'm brewing up and want to support my work, you can buy me a coffee at [Ko-fi](https://ko-fi.com/jonathan-oe). Your feedback and contributions are what keep this project going.
+If you enjoy what I'm brewing up and want to support my work, you can buy me a coffee at [Ko-fi](https://ko-fi.com/jthweb). Your feedback and contributions are what keep this project going.
 
 ---
 
@@ -26,6 +26,8 @@ If you enjoy what I'm brewing up and want to support my work, you can buy me a c
 Windows 12 Concept is a free, open-source project exploring a potential future for Windows. It features a redesigned interface, new features, and a focus on user experience.
 
 It is a concept, not a finished product.
+
+<br>
 
 ## ⚡ What's New?
 
@@ -52,18 +54,21 @@ It is a concept, not a finished product.
 ### 6️⃣ All New Start Menu:
 - Get better productivity with increased ease.
 - Also gets fluent flyouts and audio mixer.
-- Credits to JaxCore for the above bits.
+- Credits to JaxCore for the above.
 
 ### 7️⃣ Winver for Windows 12:
 - Latest `winver.exe` with Windows 12 as OS!
 
 ### 8️⃣ Dock Taskbar
 - Get a hiddden taskbar that only opens on hover!
-- Faster App switching
+- Faster app switching
+<br>
+
+---
 
 ## 📦 **Installation**
 
-1.  Star the repo and grab the latest release from [Releases](https://github.com/jonathan-oe/Windows-12/releases).
+1.  Star the repo and grab the latest release from [Releases](https://github.com/jthweb/Windows-12/releases).
 2.  Run the installer.
 3. Follow all the steps shown in the below tutorial video on how to install Windows 12. (This process will take some time. Please ensure that you have time while installing Windows 12.)
 <br><video src="tutorial.mp4"></video>
@@ -75,19 +80,19 @@ It is a concept, not a finished product.
 winget install --id=Rainmeter.Rainmeter -e
 winget install --id AmN.yasb
 ```
+<br>
 
 ## <strike>📦</strike> **Uninstallation**
 
-1.  Please remember that **UNINSTALLING Windows 12 will NOT remove** all the changes made by the app. To restore to the old version, check the below video provided you made some backups during the installation.
-<br><video src="uninstall.mp4"></video>
-<br>
-
+1.  Please remember that **UNINSTALLING Windows 12 will NOT remove** all the changes made by the app. To restore to the old version, use the below codes and restore the backups made during the installation.
 
 ## 💻 Codes required during uninstallation
 ```bash
 winget uninstall --id=Rainmeter.Rainmeter -e
 winget uninstall --id AmN.yasb
-```
+``` 
+<br> You can restore the icons using the `Restore` option from the 7tsp Icon Patcher, uninstall the `UltraUXThemePatcher`, uninstall OldNewExplorer/Explorer Blur Mica, and replace the current theme with the `.deskthemepack` file that was made earlier during the installation. Then reboot your computer and then, uninstall Windows 12.
+<br><br>
 
 >   [!WARNING]
 > 🔑 Remember to follow all the steps provided for each step with extreme care to ensure the app is installed or uninstalled correctly. <br><br>Make sure that you don't reboot your computer any time during the installation, even if the apps ask you to.
@@ -113,7 +118,7 @@ Special thanks to:
 
 ## 📬 Contact
 
-Contact me at [pinnaclez@duck.com](mailto:pinnaclez@duck.com)
+Contact me at [jthweb@duck.com](mailto:jthweb@duck.com)
 
 Made with ❤️ by a high school student. Check out my other projects in Github profile!
 ## 📄 **License**

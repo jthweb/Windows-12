@@ -1,7 +1,7 @@
-from PySide6.QtCore import (QCoreApplication, QMetaObject, QRect, QSize, Qt)
-from PySide6.QtGui import (QCursor, QFont, QIcon)
-from PySide6.QtWidgets import (QApplication, QFrame, QMainWindow, QPushButton,
-    QTextBrowser, QWidget)
+from PyQt6.QtCore import Qt, QRect, QSize, QMetaObject
+from PyQt6.QtGui import QCursor, QFont, QIcon
+from PyQt6.QtWidgets import QApplication, QMainWindow, QPushButton, QTextBrowser, QWidget, QFrame
+
 
 class MainWindow(QMainWindow):
     def __init__(self):
@@ -16,7 +16,7 @@ class MainWindow(QMainWindow):
         self.setFont(font)
         self.setFocusPolicy(Qt.FocusPolicy.NoFocus)
         self.setStyleSheet("background-color:rgb(37, 42, 51);")
-        self.setWindowFlags(Qt.WindowCloseButtonHint | Qt.WindowMinimizeButtonHint | Qt.Window  )
+        self.setWindowFlags(Qt.WindowType.WindowCloseButtonHint | Qt.WindowType.WindowMinimizeButtonHint)
 
         self.centralwidget = QWidget(self)
         self.centralwidget.setObjectName("centralwidget")
@@ -36,7 +36,7 @@ class MainWindow(QMainWindow):
         self.textBrowser = QTextBrowser(self.centralwidget)
         self.textBrowser.setObjectName("textBrowser")
         self.textBrowser.setGeometry(QRect(20, 130, 451, 411))
-        self.textBrowser.viewport().setProperty("cursor", QCursor(Qt.CursorShape.ArrowCursor))
+        self.textBrowser.viewport().setCursor(QCursor(Qt.CursorShape.ArrowCursor))
         self.textBrowser.setFrameShape(QFrame.Shape.NoFrame)
         self.textBrowser.setLineWidth(0)
         self.textBrowser.setHtml("""
@@ -47,10 +47,11 @@ class MainWindow(QMainWindow):
             <p style='font-size:11pt; font-weight:700;'>Legal</p>
             <p>The software is provided "as is", without any warranty of any kind, express or implied. This includes, but is not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claims, damages, or other liabilities, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.</p>
             <p>This software is a conceptual theme and is not affiliated with, endorsed by, or in any way connected to <a href='https://microsoft.com'>Microsoft Inc.</a> or its related projects.</p>
-            <p>This project is licensed under the <a href='https://github.com/deskime/deskime/license'>GNU General Public License v3.0</a>. You are free to modify and distribute this software as long as you keep the same license and credit the <a href='https://github.com/deskime'>creator</a>.</p>
+            <p>This project is licensed under the <a href='https://github.com/jthweb/windows-12/license'>GNU General Public License v3.0</a>. You are free to modify and distribute this software as long as you keep the same license and credit the <a href='https://github.com/jthweb'>creator</a>.</p>
         """)
 
         QMetaObject.connectSlotsByName(self)
+
 
 if __name__ == "__main__":
     import sys
