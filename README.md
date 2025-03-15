@@ -1,8 +1,8 @@
 <div style="text-align: center;">
 
-![Logo](https://raw.githubusercontent.com/jthdev/Windows-12/refs/heads/main/logo.png)
+![Logo](https://raw.githubusercontent.com/jthweb/Windows-12/refs/heads/main/logo.png)
 
-Imagine starting your day with a [fresh cup of coffee](https://ko-fi.com/jthdev) and a brand new Windows experience... 🤔 That's what this is!
+Imagine starting your day with a [fresh cup of coffee](https://ko-fi.com/jthweb) and a brand new Windows experience... 🤔 That's what this is!
 <br><br>
 A free, open-source concept of Windows 12, made with passion.
 <br><br>
@@ -17,7 +17,7 @@ Hey everyone! I'm Jonathan, a high school student tinkering with tech. I am the 
 
 It's free, open-source, and made with ❤️.
 
-If you enjoy what I'm brewing up and want to support my work, you can buy me a coffee at [Ko-fi](https://ko-fi.com/jthdev). Your feedback and contributions are what keep this project going.
+If you enjoy what I'm brewing up and want to support my work, you can buy me a coffee at [Ko-fi](https://ko-fi.com/jthweb). Your feedback and contributions are what keep this project going.
 
 ---
 
@@ -67,7 +67,7 @@ It is a concept, not a finished product.
 
 ## 📦 **Installation**
 
-1.  Star the repo and grab the latest release from [Releases](https://github.com/jthdev/Windows-12/releases).
+1.  Star the repo and grab the latest release from [Releases](https://github.com/jthweb/Windows-12/releases).
 2.  Run the installer.
 3. Follow all the steps shown in the below tutorial video on how to install Windows 12. (This process will take some time. Please ensure that you have time while installing Windows 12.)
 4. Install [Rainmeter]("https://www.rainmeter.com) and [YASB](https://github.com/amnweb/yasb)
@@ -121,7 +121,7 @@ Special thanks to:
 -   Windows Intelligence - [Writing Toold by theJayTea](https://github.com/thejaytea)
 -   Start Menu and Flyout - [JaxCore](https://github.com/jaxcore)
 
-And [JThDev](https://github.com/jthdev) for (since you may ask what I made after reading the above references 😅):
+And [JThweb](https://github.com/jthweb) for (since you may ask what I made after reading the above references 😅):
 
 - Making the themes
 - Creating the Windows 12 `winver.exe` and `Run` <i>(Run drag/drop wasn't easy!)</i>
@@ -132,7 +132,7 @@ And [JThDev](https://github.com/jthdev) for (since you may ask what I made after
 
 ## 📬 Contact
 
-Contact me at [jthdev@duck.com](mailto:jthdev@duck.com)
+Contact me at [jthweb@duck.com](mailto:jthweb@duck.com)
 
 Made with ❤️ by a high school student. Check out my other projects in Github profile!
 ## 📄 **License**
