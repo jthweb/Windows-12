@@ -1,0 +1,63 @@
+{
+
+    "Python": {
+		"icon": "./icons/Folder Icons/py.ico",
+		"type": "open_app",
+		"exec": "explorer.exe C:\\Python"
+	},
+
+    "Desktop": {
+		"icon": "./icons/Folder Icons/Desktop.ico",
+		"type": "open_app",
+		"exec": "explorer.exe %USERPROFILE%\\Desktop"
+	},
+
+    "Documents": {
+		"icon": "./icons/Folder Icons/Documents.ico",
+		"type": "open_app",
+		"exec": "explorer.exe C:\\Users\\97466\\Documents"
+	},
+
+    "Downloads": {
+		"icon": "./icons/Folder Icons/Downloads.ico",
+		"type": "open_app",
+		"exec": "explorer.exe C:\\Users\\97466\\Downloads"
+	},
+
+    "3D Objects": {
+		"icon": "./icons/Folder Icons/3d.ico",
+		"type": "open_app",
+		"exec": "explorer.exe C:\\Users\\97466\\3D Objects"
+	},
+
+    "Music": {
+		"icon": "./icons/Folder Icons/Music.ico",
+		"type": "open_app",
+		"exec": "explorer.exe C:\\Users\\97466\\Music"
+	},
+
+    "Videos": {
+		"icon": "./icons/Folder Icons/Videos.ico",
+		"type": "open_app",
+		"exec": "explorer.exe C:\\Users\\97466\\Videos"
+	},
+
+    "Photos": {
+		"icon": "./icons/Folder Icons/Photos.ico",
+		"type": "open_app",
+		"exec": "explorer.exe C:\\Users\\97466\\Pictures"
+	},
+
+    "C:": {
+		"icon": "./icons/Folder Icons/c.ico",
+		"type": "open_app",
+		"exec": "explorer.exe C:"
+	},
+
+    "Explorer": {
+		"icon": "./icons/Folder Icons/explorer.ico",
+		"type": "open_app",
+		"exec": "explorer.exe"
+	}
+
+}

@@ -1,0 +1,117 @@
+{
+    "Windows 12": {
+		"icon": "./icons/logo.ico",
+		"type": "open_app",
+		"exec": "slidetoshutdown"
+	},
+
+	"Settings": {
+		"icon": "./icons/utilities-tweak-tool.ico",
+		"type": "open_app",
+		"exec": "C:\\Windows\\explorer.exe ms-settings:"
+	},
+
+	"File Explorer": {
+		"icon": "./icons/system-file-manager.ico",
+		"type": "open_app",
+		"exec": "explorer"
+	},
+
+
+
+        "Photos": {
+		"icon": "./icons/accessories-image-viewer.ico",
+		"type": "open_app",
+		"exec": "mediaplayer"
+	},
+
+	"Calender": {
+		"icon": "./icons/x-office-calendar.ico",
+		"type": "open_app",
+		"exec": "calender"
+	},
+
+
+	"Calculator": {
+		"icon": "./icons/accessories-calculator.ico",
+		"type": "open_app",
+		"exec": "C:\\Windows\\System32\\calc.exe"
+	},
+
+
+	"Music": {
+		"icon": "./icons/deepin-music.ico",
+		"type": "open_app",
+		"exec": "C:\\Users\\97466\\AppData\\Local\\Microsoft\\WindowsApps\\MediaPlayer.exe"
+	},
+
+
+        "Firefox": {
+		"icon": "./icons/firefox.ico",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
+	},
+
+	"Gmail": {
+		"icon": "./icons/gmail.ico",
+		"type": "open_url",
+		"url": "https://mail.gogle.com/#inbox"
+	},
+
+
+	"Minecraft": {
+		"icon": "./icons/minecraft.ico",
+		"type": "open_url",
+		"url": "https://classic.minecraft.net"
+	},
+
+	"Figma": {
+		"icon": "./icons/figma.ico",
+		"type": "open_url",
+		"url": "https://figma.com"
+	},
+
+	"Krita": {
+		"icon": "./icons/krita.ico",
+		"type": "open_url",
+		"url": "https://krita.com"
+	},
+
+	"Whatsapp": {
+		"icon": "./icons/whatsapp.ico",
+		"type": "open_url",
+		"url": "https://web.whatsapp.com"
+	},
+
+	"VSCode": {
+		"icon": "./icons/code.ico",
+		"type": "open_app",
+		"exec": "code"
+	},
+
+	"Word": {
+		"icon": "./icons/ms-Word.ico",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE"
+	},
+
+	"Excel": {
+		"icon": "./icons/ms-Excel.ico",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE"
+	},
+
+	"PowerPoint": {
+		"icon": "./icons/ms-PowerPoint.ico",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\POWERPNT.EXE"
+	},
+
+
+	"OneNote": {
+		"icon": "./icons/ms-OneNote.ico",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\ONENOTE.EXE"
+	}
+
+}
