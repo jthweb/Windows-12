@@ -69,31 +69,19 @@ It is a concept, not a finished product.
 
 1.  Star the repo and grab the latest release from [Releases](https://github.com/jthweb/Windows-12/releases).
 2.  Run the installer.
-3. Follow all the steps shown in the below tutorial video on how to install Windows 12. (This process will take some time. Please ensure that you have time while installing Windows 12.)
-4. Install [Rainmeter]("https://www.rainmeter.net) and [YASB](https://github.com/amnweb/yasb) from their websites or using the codes given below.
-<br><video src="tutorial.mp4"></video>
+3. Run `setup.bat`
 <br>
-5. Enjoy your Windows 12 experience! 🚀
+4. Enjoy your Windows 12 experience! 🚀
 
 > [!TIP]
 > 👀 Use HackBGRT to change the boot logo to make the experience even more better!
 
-### 💻 Codes for installation
-```bash
-winget install --id=Rainmeter.Rainmeter -e
-winget install --id AmN.yasb
 ```
 <br>
 
 ## <strike>📦</strike> **Uninstallation**
 
 1.  Please remember that **UNINSTALLING Windows 12 will NOT remove** all the changes made by the app. To restore to the old version, use the below codes and restore the backups made during the installation.
-
-### 💻 Codes for uninstallation
-```bash
-winget uninstall --id=Rainmeter.Rainmeter -e
-winget uninstall --id AmN.yasb
-``` 
 
 You can restore the icons using the `Restore` option from the 7tsp Icon Patcher, uninstall the `UltraUXThemePatcher`, uninstall OldNewExplorer/Explorer Blur Mica, restore the old `winver.exe` and `run.exe`, and replace the current theme with the `.deskthemepack` file that was made earlier during the installation. Also, remove all the shortcuts made from the `shell:startup` folder. Then reboot your computer and then, uninstall Windows 12 from the Start Menu or Control Panel.
 <br><br>**OR**<br><br>You can use the code `SFC /scannow` in cmd, to restore the theme and icon much faster. <i>(not recommmended)</i>
