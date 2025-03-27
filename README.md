@@ -134,7 +134,7 @@ And [JThweb](https://github.com/jthweb) for (since you may ask what I made after
 
 Contact me at [jthweb@duck.com](mailto:jthweb@duck.com) to share any ideas or contributions you would like to make.
 
-Made with ❤️ by a high school student. Check out my other projects in Github profile!
+Made with ❤️ by a high school student. Check out my other projects in my [Github profile](https://github.com/jthweb)!
 
 
 ## 📄 **License**
