@@ -80,7 +80,7 @@ It is a concept, not a finished product.
 
 ## <strike>📦</strike> **Uninstallation**
 
-1.  Please remember that **UNINSTALLING Windows 12 will NOT remove** all the changes made by the app. To restore to the old version, use the below codes and restore the backups made during the installation.
+Please remember that **UNINSTALLING Windows 12 will NOT remove** all the changes made by the app. To restore to the old version, use the below codes and restore the backups made during the installation.
 
 You can restore the icons using the `Restore` option from the 7tsp Icon Patcher, uninstall the `UltraUXThemePatcher`, uninstall OldNewExplorer/Explorer Blur Mica, restore the old `winver.exe` and `run.exe`, and replace the current theme with the `.deskthemepack` file that was made earlier during the installation. Also, remove all the shortcuts made from the `shell:startup` folder. Then reboot your computer and then, uninstall Windows 12 from the Start Menu or Control Panel.
 <br><br>**OR**<br><br>You can use the code `SFC /scannow` in cmd, to restore the theme and icon much faster. <i>(not recommmended)</i>
