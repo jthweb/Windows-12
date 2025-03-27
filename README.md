@@ -76,7 +76,6 @@ It is a concept, not a finished product.
 > [!TIP]
 > 👀 Use HackBGRT to change the boot logo to make the experience even more better!
 
-```
 <br>
 
 ## <strike>📦</strike> **Uninstallation**
