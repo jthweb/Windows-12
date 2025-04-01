@@ -1,6 +1,11 @@
 <div style="text-align: center;">
 
-![Logo](https://raw.githubusercontent.com/jthweb/Windows-12/refs/heads/main/logo.png)
+
+<br>
+
+![Logo](logo.png)
+
+<br>
 
 Imagine starting your day with a [fresh cup of coffee](https://ko-fi.com/jthweb) and a brand new Windows experience... 🤔 That's what this is!
 <br><br>
@@ -40,6 +45,7 @@ It is a concept, not a finished product.
 - Streamlined workflow.
 
 ### 3️⃣ Redesigned Look:
+- Include the New Windows 12 Themepack.
 - A clean, modern file explorer with custom icons.
 - Minimal wallpapers by [Addy Visuals](https://youtube.com/@addyvisuals)
 
@@ -61,28 +67,36 @@ It is a concept, not a finished product.
 ### 8️⃣ Dock Taskbar
 - Get a hiddden taskbar that only opens on hover!
 - Faster app switching
+
+### 9️⃣ Configurator
+- Comes with a configurator for faster setup.
+
 <br>
 
 ---
 
 ## 📦 **Installation**
 
-1.  Star the repo and grab the latest release from [Releases](https://github.com/jthweb/Windows-12/releases).
-2.  Run the installer.
-3. Run `setup.bat`
+
+
+1.  Star the repo and grab the latest release for your OS from [Releases](https://github.com/jthweb/Windows-12/releases).
+2.  Create a backup of your current theme by going to `Settings > Personalisation > Themes` and click on `|Save Theme|`. Give it a name, and then, right click on your theme, click `|Save theme for sharing|` and export your theme as a `.deskthemepack` file.
+3. Run the installer.
+4. Run `Windows 12 Configurator.exe` from the start menu and follow all steps shown.
 <br>
-4. Enjoy your Windows 12 experience! 🚀
+5. Enjoy your Windows 12 experience! 🚀
 
 > [!TIP]
 > 👀 Use HackBGRT to change the boot logo to make the experience even more better!
+> To do this, use splash.bmp provided from the installed directory.
 
 <br>
 
 ## <strike>📦</strike> **Uninstallation**
 
-Please remember that **UNINSTALLING Windows 12 will NOT remove** all the changes made by the app. To restore to the old version, use the below codes and restore the backups made during the installation.
+Please remember that **UNINSTALLING Windows 12 will NOT remove** all the changes made by the app. To restore to the old version, use the below codes and/or restore the backups made during the installation.
 
-You can restore the icons using the `Restore` option from the 7tsp Icon Patcher, uninstall the `UltraUXThemePatcher`, uninstall OldNewExplorer/Explorer Blur Mica, restore the old `winver.exe` and `run.exe`, and replace the current theme with the `.deskthemepack` file that was made earlier during the installation. Also, remove all the shortcuts made from the `shell:startup` folder. Then reboot your computer and then, uninstall Windows 12 from the Start Menu or Control Panel.
+You can restore the icons using the `Restore` option from the 7tsp Icon Patcher, uninstall the `UltraUXThemePatcher`, uninstall OldNewExplorer/Explorer Blur Mica and replace the current theme with the `.deskthemepack` file that was made earlier during the installation. Also, remove all the shortcuts made from the `shell:startup` folder. Then reboot your computer and then, uninstall Windows 12 from the Start Menu or Control Panel.
 <br><br>**OR**<br><br>You can use the code `SFC /scannow` in cmd, to restore the theme and icon much faster. <i>(not recommmended)</i>
 
 >   [!WARNING]
@@ -149,5 +163,8 @@ try {
 } finally {
     return "thanks for checking it out! \n  Explore my other projects.";
 }
+```
 
 ---
+
+[🚀 Back to Top](Logo)
