@@ -1,8 +1,6 @@
 ![Logo](logo.png)  
 ![Compatible](compatible.png)  
 
-<br>
-
 Imagine starting your day with a [fresh cup of coffee](https://ko-fi.com/jthweb) and a brand-new Windows experience. That’s what this is all about!
 <br><br>
 A free, open-source Windows 12 concept, crafted with passion.
