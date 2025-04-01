@@ -157,3 +157,6 @@ try {
     return "Thanks for checking it out! Explore my other projects.";
 }
 ```
+---
+
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fjthweb%2Fwindows-12&label=Visitors&countColor=%23263759&style=flat-square)
