@@ -20,7 +20,7 @@ Thanks for showing interest in contributing to the Windows 12 Concept project! W
 2. **Clone your fork**
 
    ```bash
-   git clone https://github.com/your-username/windows-12
+   git clone https://github.com/jthweb/windows-12
    cd windows-12
    ```
 

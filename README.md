@@ -3,6 +3,7 @@
 </p>
 <p align="center">
   <img src="compatible.png" alt="Compatible with Windows">
+  *Requires a Windows Virtual Machine for MacOS and Linux
 </p>
 
 <h1 align="center">Windows 12 Concept</h1>
