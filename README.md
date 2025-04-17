@@ -74,6 +74,20 @@ This is not an operating system — it is a **customization layer** with themes,
 
 ---
 
+## 📜 Prerequisites
+
+- Windows Terminal
+- Windows Powershell 7 or higher
+<br>
+You can install them using winget by using the below commands
+
+```bash
+winget install --id=Microsoft.PowerShell -e
+winget install --id=Microsoft.WindowsTerminal -e
+```
+
+---
+
 ## 🚀 Installation Guide
 
 To get started, follow these steps:
