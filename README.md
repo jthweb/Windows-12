@@ -80,12 +80,17 @@ This is not an operating system — it is a **customization layer** with themes,
 
 To get started, follow these steps:
 
-1. **Star** this repository to support the project.
-2. **Download** the latest release from the [GitHub Releases page](https://github.com/jthweb/Windows-12/releases).
-3. **Backup your theme**: Go to `Settings > Personalization > Themes` and save your current setup.
-4. **Run the installer** included in the release package.
-5. **Launch** `Windows 12 Configurator.exe` to personalize your setup.
-6. **Enjoy** a refreshed desktop experience! 🚀
+1. **Star** this repository to support the project.<br>
+2. **Download** the latest release from the [GitHub Releases page](https://github.com/jthweb/Windows-12/releases) and launch it, or install it using winget.<br>
+
+```bash
+winget install JThweb.Windows12
+```
+
+3. **Backup your theme**: Go to `Settings > Personalization > Themes` and save your current setup.<br>
+4. **Launch** `Windows 12 Configurator.exe` to personalize your setup. <br>
+Select option `2` [Install as Rainmeter skin] when JaxCore is being installed.
+5. **Enjoy** a refreshed desktop experience! 🚀 (after rebooting your system)<br>
 
 > 💡 Pro Tip: Change your boot splash screen using **HackBGRT**. A sample `splash.bmp` is provided.
 
@@ -95,16 +100,14 @@ To get started, follow these steps:
 
 To restore your original system configuration:
 
-- Use the **Restore** option in **7tsp Icon Patcher**
-- Uninstall the following tools (if installed):
-  - **UltraUXThemePatcher**
-  - **OldNewExplorer**
-  - **Explorer Blur Mica**
-- Reapply your saved `.deskthemepack` file
-- Clear shortcuts in `shell:startup`
+- Run `Windows 12 Removal Tool.exe`.
+<br>
+- Apply your old theme backed up during the installation.
+<br>
 - Reboot your computer and uninstall Windows 12 via the **Control Panel**
 
-> ⚠️ Advanced Users: You may also run `SFC /scannow` in Command Prompt to reset system files.
+
+> ⚠️ Advanced Users: You may also run `SFC /scannow` in Command Prompt to reset system files. (not recommended)
 
 ---
 
