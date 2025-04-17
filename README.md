@@ -80,6 +80,7 @@ This is not an operating system — it is a **customization layer** with themes,
 - Windows Powershell 7 or higher
 <br>
 You can install them using winget by using the below commands
+<br>
 
 ```bash
 winget install --id=Microsoft.PowerShell -e
@@ -92,17 +93,32 @@ winget install --id=Microsoft.WindowsTerminal -e
 
 To get started, follow these steps:
 
-1. **Star** this repository to support the project.<br>
-2. **Download** the latest release from the [GitHub Releases page](https://github.com/jthweb/Windows-12/releases) and launch it, or install it using winget.<br>
+1. **Star** this repository to support the project.
+
+<br>
+
+2. **Download** the latest release from the [GitHub Releases page](https://github.com/jthweb/Windows-12/releases) and launch it, or install it using winget.
+
+<br>
 
 ```bash
 winget install JThweb.Windows12
 ```
+<br>
 
-3. **Backup your theme**: Go to `Settings > Personalization > Themes` and save your current setup.<br>
-4. **Launch** `Windows 12 Configurator.exe` to personalize your setup. <br>
+3. **Backup your theme**: Go to `Settings > Personalization > Themes` and save your current setup.
+
+<br>
+
+4. **Launch** `Windows 12 Configurator.exe` to personalize your setup. 
+
+<br>
+
 Select option `2` [Install as Rainmeter skin] when JaxCore is being installed.
-5. **Enjoy** a refreshed desktop experience! 🚀 (after rebooting your system)<br>
+5. **Enjoy** a refreshed desktop experience! 🚀 (after rebooting your system)
+
+<br>
+<br>
 
 > 💡 Pro Tip: Change your boot splash screen using **HackBGRT**. A sample `splash.bmp` is provided.
 
@@ -113,11 +129,16 @@ Select option `2` [Install as Rainmeter skin] when JaxCore is being installed.
 To restore your original system configuration:
 
 - Run `Windows 12 Removal Tool.exe`.
+
 <br>
+
 - Apply your old theme backed up during the installation.
+
 <br>
+
 - Reboot your computer and uninstall Windows 12 via the **Control Panel**
 
+<br>
 
 > ⚠️ Advanced Users: You may also run `SFC /scannow` in Command Prompt to reset system files. (not recommended)
 
@@ -146,7 +167,8 @@ Special thanks to the creators and projects that helped make this possible:
 
 ## 👥 Contributors
 
-Thanks to everyone who has contributed to this project! 💙
+<!--Thanks to everyone who has contributed to this project! 💙-->
+Thanks to myself since no one has contributed yet! 😄
 
 <a href="https://github.com/jthweb/windows-12/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jthweb/windows-12" />
