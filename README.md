@@ -1,162 +1,109 @@
-![Logo](logo.png)  
-![Compatible](compatible.png)  
+<p align="center">
+  <img src="banner.png" width="120" alt="Windows 12 Concept Logo">
+  <img src="compatible.png" width="120" alt="Windows 12 Concept Logo">
+</p>
+<h1 align="center">Windows 12 Concept</h1>
+<p align="center"><em>A modern, open-source Windows reimagining — crafted with precision and passion.</em></p>
 
-Imagine starting your day with a [fresh cup of coffee](https://ko-fi.com/jthweb) and a brand-new Windows experience. That’s what this is all about!
-<br><br>
-A free, open-source Windows 12 concept, crafted with passion.
-<br><br>
-[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)  
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-</div>
-
-----
-
-## 👋 Hey there!
-
-I'm Jonathan, a high school student passionate about tech and the developer behind the Windows 12 Concept.
-
-It’s free, open-source, and made with ❤️.
-
-If you like what I'm building and want to support my work, you can buy me a coffee at [Ko-fi](https://ko-fi.com/jthweb). Your feedback and contributions fuel this project!
+<p align="center">
+  <img src="https://img.shields.io/github/license/jthweb/windows-12?style=flat" alt="License">
+  <img src="https://img.shields.io/github/downloads/jthweb/windows-12/total?style=flat" alt="Downloads">
+  <img src="https://img.shields.io/badge/visitors-1000%2B-blue?style=flat" alt="Visitors">
+</p>
 
 ---
 
-## ✨ What is Windows 12 Concept?
+## 📍 Overview
 
-Windows 12 Concept is an open-source project that envisions a reimagined Windows experience. It features a refreshed design, enhanced functionality, and a user-centric approach.
+**Windows 12 Concept** is an open-source design exploration that reimagines the Windows desktop experience with a fresh aesthetic, improved functionality, and thoughtful customizations.
 
-It’s a concept, not a finished product.
-
----
-
-## ⚡ What's New?
-
-### 🌟 Windows Intelligence
-- Integrated with "Writing Tools" by [theJayTea](https://github.com/theJayTea/WritingTools) for smarter writing assistance.
-
-### 🚀 Quick Bar
-- Fast access to your favorite apps and commands, boosting productivity.
-
-### 🎨 Redesigned Interface
-- Includes the new Windows 12 Themepack.
-- A sleek file explorer with custom icons.
-- Minimalist wallpapers by [Addy Visuals](https://youtube.com/@addyvisuals).
-
-### 🔍 Run App Revamp
-- Search commands, drop files, and pick them up later.
-- Simple and efficient.
-
-### ⏳ Time Widgets
-- Stay organized with seamlessly integrated Rainmeter widgets.
-
-### 🏠 All-New Start Menu
-- Improved productivity with fluid flyouts and a revamped volume mixer.
-
-### 🖥️ Updated Winver
-- A custom `winver.exe` for Windows 12.
-
-### 🖥️ Dock Taskbar
-- A hidden taskbar that appears on hover for smoother navigation.
-
-### ⚙️ Configurator
-- A dedicated setup tool for easy customization.
+It is not affiliated with Microsoft and serves as a **community-driven concept project**.
 
 ---
 
-## 📦 Installation Guide
+## 🧩 Features
 
-1. **Star the repo** and download the latest release from [GitHub Releases](https://github.com/jthweb/Windows-12/releases).
-2. **Backup your current theme** via `Settings > Personalization > Themes`. Save it as a `.deskthemepack` file.
-3. **Run the installer** and follow the steps.
-4. **Launch** `Windows 12 Configurator.exe` and complete the setup.
-5. **Enjoy** your fresh Windows 12 experience! 🚀
-
-> 💡 *Tip:* Use HackBGRT to change your boot logo! Find `splash.bmp` in the installation directory.
-
----
-
-## 🔄 Uninstallation Guide
-
-Uninstalling Windows 12 **won’t** revert all changes automatically. To restore your system:
-
-- Use the **Restore** option in **7tsp Icon Patcher**.
-- Uninstall **UltraUXThemePatcher**, **OldNewExplorer**, and **Explorer Blur Mica**.
-- Reapply your saved `.deskthemepack` theme.
-- Remove any shortcuts in `shell:startup`.
-- Reboot your computer, then uninstall Windows 12 via **Control Panel** or the **Start Menu**.
-
-Alternatively, run:
-`SFC /scannow`
-in **Command Prompt** *(not recommended)* for faster restoration.
-
-> ⚠ **Warning:** Follow the steps carefully to avoid installation or uninstallation issues.
+- **Windows Intelligence**: Smart writing assistant integration
+- **Quick Bar**: Launch your favorites instantly
+- **Redesigned Interface**: Sleek file explorer, modern icons, minimal wallpapers
+- **Run App Revamp**: Command search with drag & drop
+- **Time Widgets**: Stay organized with Rainmeter
+- **Start Menu Overhaul**: Modern flyouts and volume mixer
+- **Dock Taskbar**: Hidden navigation bar
+- **Configurator**: Personalize with ease
+- **Custom `winver.exe`**: Windows 12 branded version
+- **🎥 Coming Soon:** Video Wallpaper support
 
 ---
 
-## 🛠️ Troubleshooting
+## 🚀 Installation
 
-- Ensure you're using the latest version.
-- Avoid rebooting during installation.
-- Report issues via **GitHub Issues**.
+1. ⭐ Star this repo.
+2. 📦 [Download the latest release](https://github.com/jthweb/Windows-12/releases).
+3. 💾 Backup your theme via `Settings > Personalization`.
+4. 🧰 Run the installer.
+5. 🛠 Launch `Windows 12 Configurator.exe`.
+6. 🎉 Enjoy!
+
+> Tip: Change your boot logo using HackBGRT. `splash.bmp` is included.
 
 ---
 
-## 📜 References & Credits
+## 🔄 Uninstallation
 
-Special thanks to:
+- Restore via **7tsp Icon Patcher**
+- Uninstall any applied tools
+- Apply your backed-up theme
+- Clean up `shell:startup`
+- Reboot and remove from **Control Panel**
 
-- **Cursor** - [JepriCreations](https://deviantart.com/jepricreations)
-- **Quick Bar** - [YASB by AmN](https://github.com/amnweb)
-- **Base Theme & Icons** - [niivu](https://deviantart.com/niivu)
-- **HackBGRT** - [Metabolix](https://github.com/Metabolix)
-- **Rainmeter** - [Rainmeter.net](https://www.rainmeter.net)
-- **Windows Intelligence** - [Writing Tools by theJayTea](https://github.com/thejaytea)
-- **Start Menu & Flyout** - [JaxCore](https://github.com/jaxcore)
+---
 
-### My Contributions:
-- Developed Windows 12 `winver.exe` & Run App *(drag/drop was tough!)*
-- Designed a new taskbar.
-- Customized **YASB** configuration.
-- Compiled and packaged everything.
-- Built the installer.
+## 🛠 Troubleshooting
+
+- Use the **latest version**
+- Do not reboot during installation
+- [Report issues here](https://github.com/jthweb/Windows-12/issues)
+
+---
+
+## 🙌 Credits
+
+Inspired and powered by:
+
+- [Addy Visuals](https://youtube.com/@addyvisuals)
+- [JaxCore](https://github.com/jaxcore)
+- [niivu](https://deviantart.com/niivu)
+- [Writing Tools](https://github.com/theJayTea/WritingTools)
+- [HackBGRT](https://github.com/Metabolix)
+- [Rainmeter](https://www.rainmeter.net)
+
+---
+
+## 👥 Contributors
+
+Thanks to everyone who has contributed to this project! 💙
+
+<a href="https://github.com/jthweb/windows-12/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jthweb/windows-12" />
+</a>
 
 ---
 
 ## 📬 Contact
 
-Reach out at [jthweb@duck.com](mailto:jthweb@duck.com) for feedback and contributions.
-
-**Made with ❤️ by a high school student.** Explore more projects on my [GitHub](https://github.com/jthweb)!
+Got feedback? Reach me at [jthweb@duck.com](mailto:jthweb@duck.com)  
+Support development: [Buy me a coffee](https://ko-fi.com/jthweb)
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [GNU General Public License v3.0](LICENSE). You are free to modify and distribute this software under the same license with proper credit.
+Licensed under the [GNU GPL v3.0](LICENSE)
 
 ---
 
-## ⚠️ Disclaimer
+## 🧠 Contributing
 
-This software is provided "as is," without warranty. It is a conceptual theme and is **not affiliated with or endorsed by Microsoft**.
+We welcome contributors! Please see [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
----
-
-```javascript
-try {
-    if (u_scrolled_till_here) {
-        star_repo();
-        return "Thanks in advance!";
-    }
-} catch {
-    if (u_liked_this_project) {
-        share_repo(let_others_use);
-    }
-} finally {
-    return "Thanks for checking it out! Explore my other projects.";
-}
-```
----
-
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fjthweb%2Fwindows-12&label=Visitors&countColor=%23263759&style=flat-square)
