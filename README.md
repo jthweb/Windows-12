@@ -12,16 +12,13 @@
   <!-- Project Stats -->
   <img src="https://img.shields.io/github/downloads/jthweb/windows-12/total?style=flat-square&logo=github&color=success" alt="Downloads">
   <img src="https://img.shields.io/github/license/jthweb/windows-12?style=flat-square&logo=open-source-initiative&color=blue" alt="License">
-  <img src="https://img.shields.io/badge/visitors-1000%2B-blue?style=flat-square&logo=windows" alt="Visitors">
 </p>
 
 <p align="center">
   <!-- Tools Used -->
   <img src="https://img.shields.io/badge/Rainmeter-Desktop%20Widgets-blue?style=flat-square&logo=rainmeter" alt="Rainmeter">
-  <img src="https://img.shields.io/badge/HackBGRT-Boot%20Logo-green?style=flat-square&logo=windows" alt="HackBGRT">
   <img src="https://img.shields.io/badge/UltraUXThemePatcher-Theme%20Support-orange?style=flat-square&logo=visual-studio-code" alt="UltraUXThemePatcher">
   <img src="https://img.shields.io/badge/7tsp-Icon%20Patcher-yellow?style=flat-square&logo=icons8" alt="7tsp Icon Patcher">
-  <img src="https://img.shields.io/badge/OldNewExplorer-File%20Explorer-lightgrey?style=flat-square&logo=windows-terminal" alt="OldNewExplorer">
 </p>
 
 ---

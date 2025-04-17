@@ -18,10 +18,11 @@ Thanks for showing interest in contributing to the Windows 12 Concept project! W
 
 1. **Fork this repository**
 2. **Clone your fork**
+
    ```bash
    git clone https://github.com/your-username/windows-12
    cd windows-12
-```
+   ```
 
 3. **Create a new branch**
    ```
