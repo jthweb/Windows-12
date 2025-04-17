@@ -1,82 +1,131 @@
 <p align="center">
-  <img src="banner.png" width="120" alt="Windows 12 Concept Logo">
-  <img src="compatible.png" width="120" alt="Windows 12 Concept Logo">
+  <img src="banner.png" alt="Windows 12 Concept Banner">
 </p>
+<p align="center">
+  <img src="compatible.png" alt="Compatible with Windows">
+</p>
+
 <h1 align="center">Windows 12 Concept</h1>
-<p align="center"><em>A modern, open-source Windows reimagining — crafted with precision and passion.</em></p>
+<p align="center"><em>A modern, open-source Windows reimagining — crafted with precision and passion by a student developer.</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/jthweb/windows-12?style=flat" alt="License">
-  <img src="https://img.shields.io/github/downloads/jthweb/windows-12/total?style=flat" alt="Downloads">
-  <img src="https://img.shields.io/badge/visitors-1000%2B-blue?style=flat" alt="Visitors">
+  <!-- Project Stats -->
+  <img src="https://img.shields.io/github/downloads/jthweb/windows-12/total?style=flat-square&logo=github&color=success" alt="Downloads">
+  <img src="https://img.shields.io/github/license/jthweb/windows-12?style=flat-square&logo=open-source-initiative&color=blue" alt="License">
+  <img src="https://img.shields.io/badge/visitors-1000%2B-blue?style=flat-square&logo=windows" alt="Visitors">
+</p>
+
+<p align="center">
+  <!-- Tools Used -->
+  <img src="https://img.shields.io/badge/Rainmeter-Desktop%20Widgets-blue?style=flat-square&logo=rainmeter" alt="Rainmeter">
+  <img src="https://img.shields.io/badge/HackBGRT-Boot%20Logo-green?style=flat-square&logo=windows" alt="HackBGRT">
+  <img src="https://img.shields.io/badge/UltraUXThemePatcher-Theme%20Support-orange?style=flat-square&logo=visual-studio-code" alt="UltraUXThemePatcher">
+  <img src="https://img.shields.io/badge/7tsp-Icon%20Patcher-yellow?style=flat-square&logo=icons8" alt="7tsp Icon Patcher">
+  <img src="https://img.shields.io/badge/OldNewExplorer-File%20Explorer-lightgrey?style=flat-square&logo=windows-terminal" alt="OldNewExplorer">
 </p>
 
 ---
 
-## 📍 Overview
+## 👋 Welcome
 
-**Windows 12 Concept** is an open-source design exploration that reimagines the Windows desktop experience with a fresh aesthetic, improved functionality, and thoughtful customizations.
+Hi there! I’m Jonathan — a high school student who’s passionate about design, productivity, and everything Windows. This project, **Windows 12 Concept**, is my vision for a cleaner, smarter, and more user-centric Windows experience.
 
-It is not affiliated with Microsoft and serves as a **community-driven concept project**.
-
----
-
-## 🧩 Features
-
-- **Windows Intelligence**: Smart writing assistant integration
-- **Quick Bar**: Launch your favorites instantly
-- **Redesigned Interface**: Sleek file explorer, modern icons, minimal wallpapers
-- **Run App Revamp**: Command search with drag & drop
-- **Time Widgets**: Stay organized with Rainmeter
-- **Start Menu Overhaul**: Modern flyouts and volume mixer
-- **Dock Taskbar**: Hidden navigation bar
-- **Configurator**: Personalize with ease
-- **Custom `winver.exe`**: Windows 12 branded version
-- **🎥 Coming Soon:** Video Wallpaper support
+It’s free, open-source, and made with ❤️ for the community. If you enjoy it and want to support the project, consider buying me a coffee at [Ko-fi](https://ko-fi.com/jthweb).
 
 ---
 
-## 🚀 Installation
+## 📍 Project Overview
 
-1. ⭐ Star this repo.
-2. 📦 [Download the latest release](https://github.com/jthweb/Windows-12/releases).
-3. 💾 Backup your theme via `Settings > Personalization`.
-4. 🧰 Run the installer.
-5. 🛠 Launch `Windows 12 Configurator.exe`.
-6. 🎉 Enjoy!
+**Windows 12 Concept** is a UI/UX experiment that imagines what a refined version of Windows could look like. From visuals to user flow, every aspect has been reconsidered to enhance usability and give your desktop a fresh look.
 
-> Tip: Change your boot logo using HackBGRT. `splash.bmp` is included.
+This is not an operating system — it is a **customization layer** with themes, widgets, and utilities that enhance the visual and functional experience of Windows 10/11.
 
 ---
 
-## 🔄 Uninstallation
+## ✨ Key Features
 
-- Restore via **7tsp Icon Patcher**
-- Uninstall any applied tools
-- Apply your backed-up theme
-- Clean up `shell:startup`
-- Reboot and remove from **Control Panel**
+- **Windows Intelligence**  
+  Integrated with [Writing Tools](https://github.com/theJayTea/WritingTools) to provide intelligent writing support directly on your desktop.
+
+- **Quick Bar**  
+  Speedy access to your favorite apps and commands to keep you efficient and focused.
+
+- **Redesigned Interface**  
+  Includes a refined File Explorer, themed icons, and clean wallpapers by [Addy Visuals](https://youtube.com/@addyvisuals).
+
+- **Modern Run App**  
+  A fully revamped Run interface supporting drag-and-drop, inline command suggestions, and persistent actions.
+
+- **Time Widgets**  
+  Stay on top of your schedule with Rainmeter widgets seamlessly blended into the desktop environment.
+
+- **Start Menu Reimagined**  
+  Designed for productivity: flyouts for quick tasks and a volume mixer that’s actually usable.
+
+- **Hover-Activated Taskbar**  
+  A dock-like taskbar that appears only when needed — clean, functional, intuitive.
+
+- **Easy Configuration Tool**  
+  Quickly customize your experience with the Windows 12 Configurator.
+
+- **Custom `winver.exe`**  
+  A polished and personalized version information utility.
+
+- **🎥 Coming Soon**: **Video Wallpaper Support**  
+  Add motion and ambience with looping background videos.
 
 ---
 
-## 🛠 Troubleshooting
+## 🚀 Installation Guide
 
-- Use the **latest version**
-- Do not reboot during installation
-- [Report issues here](https://github.com/jthweb/Windows-12/issues)
+To get started, follow these steps:
+
+1. **Star** this repository to support the project.
+2. **Download** the latest release from the [GitHub Releases page](https://github.com/jthweb/Windows-12/releases).
+3. **Backup your theme**: Go to `Settings > Personalization > Themes` and save your current setup.
+4. **Run the installer** included in the release package.
+5. **Launch** `Windows 12 Configurator.exe` to personalize your setup.
+6. **Enjoy** a refreshed desktop experience! 🚀
+
+> 💡 Pro Tip: Change your boot splash screen using **HackBGRT**. A sample `splash.bmp` is provided.
+
+---
+
+## 🔄 Uninstall Guide
+
+To restore your original system configuration:
+
+- Use the **Restore** option in **7tsp Icon Patcher**
+- Uninstall the following tools (if installed):
+  - **UltraUXThemePatcher**
+  - **OldNewExplorer**
+  - **Explorer Blur Mica**
+- Reapply your saved `.deskthemepack` file
+- Clear shortcuts in `shell:startup`
+- Reboot your computer and uninstall Windows 12 via the **Control Panel**
+
+> ⚠️ Advanced Users: You may also run `SFC /scannow` in Command Prompt to reset system files.
+
+---
+
+## 🛠 Troubleshooting & Support
+
+- Ensure you're always using the **latest version** from GitHub.
+- Avoid restarting during installation.
+- If issues arise, visit the [Issues page](https://github.com/jthweb/windows-12/issues) to report them.
 
 ---
 
 ## 🙌 Credits
 
-Inspired and powered by:
+Special thanks to the creators and projects that helped make this possible:
 
-- [Addy Visuals](https://youtube.com/@addyvisuals)
-- [JaxCore](https://github.com/jaxcore)
-- [niivu](https://deviantart.com/niivu)
-- [Writing Tools](https://github.com/theJayTea/WritingTools)
-- [HackBGRT](https://github.com/Metabolix)
-- [Rainmeter](https://www.rainmeter.net)
+- [Addy Visuals](https://youtube.com/@addyvisuals) - Wallpaper design
+- [JaxCore](https://github.com/jaxcore) - Flyout and Start Menu tools
+- [niivu](https://deviantart.com/niivu) - Icon and theme assets
+- [Writing Tools](https://github.com/theJayTea/WritingTools) - AI writing support
+- [HackBGRT](https://github.com/Metabolix) - Boot splash customization
+- [Rainmeter](https://www.rainmeter.net) - Widget framework
 
 ---
 
@@ -90,20 +139,24 @@ Thanks to everyone who has contributed to this project! 💙
 
 ---
 
-## 📬 Contact
+## 📬 Contact & Feedback
 
-Got feedback? Reach me at [jthweb@duck.com](mailto:jthweb@duck.com)  
-Support development: [Buy me a coffee](https://ko-fi.com/jthweb)
+If you’d like to contribute, collaborate, or just say hi:
+
+📧 Email: [jthweb@duck.com](mailto:jthweb@duck.com)  
+☕ Support: [ko-fi.com/jthweb](https://ko-fi.com/jthweb)
 
 ---
 
 ## 📄 License
 
-Licensed under the [GNU GPL v3.0](LICENSE)
+Licensed under the [GNU General Public License v3.0](LICENSE).  
+You are free to modify, distribute, and share — just give proper credit.
 
 ---
 
-## 🧠 Contributing
+## 💡 Want to Contribute?
 
-We welcome contributors! Please see [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+We welcome new contributors! Whether it's a new idea, a bug fix, or a feature enhancement, your help is appreciated. Check out the [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
+---
