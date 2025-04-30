@@ -2,7 +2,7 @@
 
 Thanks for showing interest in contributing to the Windows 12 Concept project! Whether you're a developer, designer, or just someone with great ideas — your input is valuable.
 
----
+----
 
 ## 📌 Ways You Can Contribute
 
