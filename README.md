@@ -9,6 +9,8 @@
 <h1 align="center">Windows 12 Concept</h1>
 <p align="center"><em>A modern, open-source Windows reimagining — crafted with precision and passion by a student developer.</em></p>
 
+---
+
 <p align="center">
   <!-- Project Stats -->
   <img src="https://img.shields.io/github/downloads/jthweb/windows-12/total?style=flat-square&logo=github&color=success" alt="Downloads">
