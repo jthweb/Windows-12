@@ -42,7 +42,7 @@ class MainWindow(QMainWindow):
         self.textBrowser.setHtml("""
             <p style='font-size:11pt; font-weight:700;'>Windows Specifications</p>
             <p><span style='font-weight:700;'>Edition </span>Windows 12 Concept</p>
-            <p><span style='font-weight:700;'>Version </span>25H1</p>
+            <p><span style='font-weight:700;'>Version </span>25H2</p>
             <p><span style='font-weight:700;'>Build </span>2025.1234</p>
             <p style='font-size:11pt; font-weight:700;'>Legal</p>
             <p>The software is provided "as is", without any warranty of any kind, express or implied. This includes, but is not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claims, damages, or other liabilities, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.</p>
