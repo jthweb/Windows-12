@@ -154,6 +154,15 @@ To restore your original system configuration:
 
 ---
 
+## 🔎 Additional Tools
+ 
+ Here are some addititonal tools you can use for a better look:
+ - [Windhawk](https://windhawk.net) - A Windows customiztion app by editing the souce code (C++)
+ - [MicrosoftPowertoys](https://github.com/microsoft/PowerToys) - A Microsoft App to make life easier
+ - [MicrosoftPCManager](https://pcmanager.microsoft.com/) - An app for boosting your PC
+
+---
+
 ## 🙌 Credits
 
 Special thanks to the creators and projects that helped make this possible:
