@@ -99,13 +99,8 @@ To get started, follow these steps:
 
 <br>
 
-2. **Download** the latest release from the [GitHub Releases page](https://github.com/jthweb/Windows-12/releases) and launch it, or install it using winget.
+2. **Download** the latest release from the [GitHub Releases page](https://github.com/jthweb/Windows-12/releases) and launch it.
 
-<br>
-
-```bash
-winget install JThweb.Windows12
-```
 <br>
 
 3. **Backup your theme**: Go to `Settings > Personalization > Themes` and save your current setup.
