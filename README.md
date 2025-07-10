@@ -1,3 +1,7 @@
+# THIS REPOSITORY IS CURRENTLY UNDERGOING A REVAMP. A LOT OF NEW FEATURES ARE GOING TO BE ADDED. STAY TUNED BY WATCHING THIS REPOSITORY.
+
+## Hopefully, the new version should be out before September 2025
+
 <p align="center">
   <img src="banner.png" alt="Windows 12 Concept Banner">
 </p>
